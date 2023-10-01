@@ -2,3 +2,6 @@
 .idea
 *.o
 fsutils
+resources/fattest1
+resources/exttest1
+resources/fat2
